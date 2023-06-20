@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-160621735069/160621735069 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Amulya_daida/Amulya_daida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
